@@ -1,1 +1,1 @@
-![](https://leetcard.jacoblin.cool/abhishekgaikwadlahavit?cache=0)
+![Leetcode Stats](https://leetcard.jacoblin.cool/abhishekgaikwadlahavit?ext=heatmap)
